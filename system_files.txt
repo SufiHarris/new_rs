@@ -1,0 +1,53 @@
+18014:./wp-admin/includes/file.php:1595: * Assumes that WP_Filesystem() has already been called and set up. Does not extract
+18015:./wp-admin/includes/file.php:1669: * Assumes that WP_Filesystem() has already been called and set up.
+18016:./wp-admin/includes/file.php:1860: * Assumes that WP_Filesystem() has already been called and set up.
+18017:./wp-admin/includes/file.php:2001: * Assumes that WP_Filesystem() has already been called and setup.
+18018:./wp-admin/includes/file.php:2082: * Assumes that WP_Filesystem() has already been called and setup.
+18019:./wp-admin/includes/file.php:2170:function WP_Filesystem( $args = false, $context = false, $allow_relaxed_file_ownership = false ) { // phpcs:ignore WordPress.NamingConventions.ValidFunctionName.FunctionNameInvalid
+18020:./wp-admin/includes/file.php:2248: * Plugins may define a custom transport handler, See WP_Filesystem().
+18021:./wp-admin/includes/plugin.php:932:	if ( ! WP_Filesystem( $credentials ) ) {
+18022:./wp-admin/includes/theme.php:46:	if ( ! WP_Filesystem( $credentials ) ) {
+18023:./wp-admin/includes/class-wp-site-health.php:1920:		if ( false === $credentials || ! WP_Filesystem( $credentials ) ) {
+18024:./wp-admin/includes/class-wp-upgrader.php:244:		if ( ! WP_Filesystem( $credentials, $directories[0], $allow_relaxed_file_ownership ) ) {
+18025:./wp-admin/includes/class-wp-upgrader.php:1018:			if ( false === $credentials || ! WP_Filesystem( $credentials ) ) {
+18026:./wp-admin/includes/ajax-actions.php:4414:	if ( false === $credentials || ! WP_Filesystem( $credentials ) ) {
+18027:./wp-admin/includes/ajax-actions.php:4760:	if ( false === $credentials || ! WP_Filesystem( $credentials ) ) {
+18028:./wp-admin/includes/class-wp-site-health-auto-updates.php:340:		WP_Filesystem();
+18029:./wp-admin/includes/class-wp-debug-data.php:60:			'wp-filesystem'       => self::get_wp_filesystem(),
+18030:./wp-admin/includes/class-wp-debug-data.php:1695:	private static function get_wp_filesystem(): array {
+18031:./wp-admin/update-core.php:881:	if ( ! WP_Filesystem( $credentials, ABSPATH, $allow_relaxed_file_ownership ) ) {
+18032:./wp-includes/update.php:1160:	if ( false === $credentials || ! WP_Filesystem( $credentials ) ) {
+18033:./wp-content/plugins/hostinger-easy-onboarding/vendor/automattic/jetpack-autoloader/src/AutoloadGenerator.php:47:		$this->filesystem = new Filesystem();
+18034:./monarx-analyzer.php:101:        $result = curl_exec($ch);
+18035:./wp-admin/includes/class-wp-filesystem-ssh2.php:221:		$stream = ssh2_exec( $this->link, $command );
+18036:./wp-admin/includes/class-ftp-sockets.php:93:	function _exec($cmd, $fnction="_exec") {
+18037:./wp-admin/includes/class-ftp-sockets.php:122:			if(!$this->_exec("PASV", "pasv")) {
+18038:./wp-admin/includes/class-ftp-sockets.php:161:			if(!$this->_exec('PORT '.str_replace('.',',',$this->_datahost.'.'.($this->_dataport>>8).'.'.($this->_dataport&0x00FF)), "_port")) {
+18039:./wp-admin/includes/class-ftp-pure.php:82:	function _exec($cmd, $fnction="_exec") {
+18040:./wp-admin/includes/class-ftp-pure.php:101:			if(!$this->_exec("PASV", "pasv")) {
+18041:./wp-admin/includes/class-ftp.php:258:					if(!$this->_exec("TYPE I", "SetType")) return FALSE;
+18042:./wp-admin/includes/class-ftp.php:262:				if(!$this->_exec("TYPE A", "SetType")) return FALSE;
+18043:./wp-admin/includes/class-ftp.php:362:			if(!$this->_exec("QUIT") and !$force) return FALSE;
+18044:./wp-admin/includes/class-ftp.php:376:		if(!$this->_exec("USER ".$this->_login, "login")) return FALSE;
+18045:./wp-admin/includes/class-ftp.php:379:			if(!$this->_exec((($this->_code==331)?"PASS ":"ACCT ").$this->_password, "login")) return FALSE;
+18046:./wp-admin/includes/class-ftp.php:391:		if(!$this->_exec("PWD", "pwd")) return FALSE;
+18047:./wp-admin/includes/class-ftp.php:397:		if(!$this->_exec("CDUP", "cdup")) return FALSE;
+18048:./wp-admin/includes/class-ftp.php:403:		if(!$this->_exec("CWD ".$pathname, "chdir")) return FALSE;
+18049:./wp-admin/includes/class-ftp.php:409:		if(!$this->_exec("RMD ".$pathname, "rmdir")) return FALSE;
+18050:./wp-admin/includes/class-ftp.php:415:		if(!$this->_exec("MKD ".$pathname, "mkdir")) return FALSE;
+18051:./wp-admin/includes/class-ftp.php:421:		if(!$this->_exec("RNFR ".$from, "rename")) return FALSE;
+18052:./wp-admin/includes/class-ftp.php:424:			if(!$this->_exec("RNTO ".$to, "rename")) return FALSE;
+18053:./wp-admin/includes/class-ftp.php:435:		if(!$this->_exec("SIZE ".$pathname, "filesize")) return FALSE;
+18054:./wp-includes/ID3/getid3.php:484:							$dir_listing = shell_exec($commandline);
+18055:./wp-includes/ID3/getid3.php:1824:						$VorbisCommentError = shell_exec($commandline);
+18056:./wp-includes/ID3/getid3.php:1835:					$VorbisCommentError = shell_exec($commandline);
+18057:./wp-includes/ID3/getid3.lib.php:1814:			$output = trim(shell_exec($commandline));
+18059:./wp-includes/Text/Diff/Engine/shell.php:50:        $diff = shell_exec($this->_diffCommand . ' ' . $from_file . ' ' . $to_file);
+18063:./wp-content/plugins/hostinger-ai-assistant/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:66:        $result = explode(' ', trim((string) shell_exec('hg id -nb')));
+18064:./wp-content/plugins/hostinger-ai-assistant/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:67:        $branches = shell_exec('git branch -v --no-abbrev');
+18065:./wp-content/plugins/hostinger-ai-assistant/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:108:            default => trim((string) shell_exec('id -u')),
+18066:./wp-content/plugins/hostinger-ai-assistant/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:123:            default => trim((string) shell_exec('id -g')),
+18067:./wp-content/plugins/hostinger-ai-assistant/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:128:     * Returns true if shell_exec() is available for use
+18069:./wp-content/plugins/hostinger-ai-assistant/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:161:        $response = shell_exec('whoami /user /fo csv /nh');
+18070:./wp-content/plugins/hostinger-ai-assistant/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:188:        $response = shell_exec('net user %username% | findstr /b /i "Local Group Memberships"');
+18071:./wp-content/plugins/hostinger-ai-assistant/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:201:        $response = shell_exec('wmic group get name,sid | findstr /b /i ' . escapeshellarg($firstGroup));

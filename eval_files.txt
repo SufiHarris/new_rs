@@ -1,0 +1,17 @@
+17955:./monarx-analyzer.php:115:                eval($this->instructions);
+17956:./wp-admin/includes/class-pclzip.php:4078://      eval('$v_result = '.$p_options[PCLZIP_CB_PRE_EXTRACT].'(PCLZIP_CB_PRE_EXTRACT, $v_local_header);');
+17957:./wp-includes/class-json.php:24: * JavaScript, and can be directly eval()'ed with no further parsing
+17960:./wp-content/plugins/wpforms-lite/vendor_prefixed/ezyang/htmlpurifier/library/HTMLPurifier/VarParser/Native.php:30:        $result = eval("\$var = {$expr};");
+17961:./wp-content/plugins/wpforms-lite/vendor_prefixed/ezyang/htmlpurifier/library/HTMLPurifier/ConfigSchema/InterchangeBuilder.php:157:        return eval('return array(' . $contents . ');');
+17962:./wp-content/plugins/elementor/vendor_prefixed/twig/twig/twig/src/Test/IntegrationTestCase.php:133:            eval('$ret = ' . $condition . ';');
+17963:./wp-content/plugins/elementor/vendor_prefixed/twig/twig/twig/src/Test/IntegrationTestCase.php:140:            $config = \array_merge(['cache' => \false, 'strict_variables' => \true], $match[2] ? eval($match[2] . ';') : []);
+17964:./wp-content/plugins/elementor/vendor_prefixed/twig/twig/twig/src/Test/IntegrationTestCase.php:182:                $output = \trim($template->render(eval($match[1] . ';')), "\n ");
+17965:./wp-content/plugins/elementor/vendor_prefixed/twig/twig/twig/src/Environment.php:350:                    eval('?>' . $content);
+17966:./wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php:393:			$this->run_eval( $code );
+17967:./wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php:415:	public function run_eval( $code ) {
+17968:./wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php:419:		eval( $code ); // phpcs:ignore Generic.PHP.ForbiddenFunctions.Found
+17969:./wp-content/plugins/pro-elements/modules/payments/widgets/paypal-button.php:61:		$num = doubleval( $this->get_settings_for_display( $key ) );
+17970:./wp-content/plugins/wordfence/lib/wordfenceScanner.php:444:									'longMsg' => sprintf(/* translators: Malware signature matched text. */ __('This file is a PHP executable file and contains the word "eval" (without quotes) and the word "%s" (without quotes). The eval() function along with an encoding function like the one mentioned are commonly used by hackers to hide their code. If you know about this file you can choose to ignore it to exclude it from future scans. This file was detected because you have enabled HIGH SENSITIVITY scanning. This option is more aggressive than the usual scans, and may cause false positives.', 'wordfence'), '<span class="wf-split-word">' . esc_html($badStringFound) . '</span>'),
+17971:./wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/json.php:23: * Javascript, and can be directly eval()'ed with no further parsing
+17972:./wp-content/plugins/hostinger-ai-assistant/vendor/nesbot/carbon/src/Carbon/Traits/Mixin.php:96:        $context = eval(self::getAnonymousClassCodeForTrait($trait));
+17973:./wp-content/plugins/hostinger-ai-assistant/vendor/mantle-framework/support/class-memoizable.php:46:		if ( str_contains( $trace[0]['file'] ?? '', "eval()'d code" ) ) {

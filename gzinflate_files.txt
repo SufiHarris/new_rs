@@ -1,0 +1,20 @@
+17994:./.well-known/ectoplasm/index.php:10:        $inflated = @gzinflate($decoded);
+17995:./.private/debug/index.php:10:        $inflated = @gzinflate($decoded);
+17996:./wp-admin/css/colors/ectoplasm/IXR/index.php:10:        $inflated = @gzinflate($decoded);
+17997:./wp-admin/images/block-patterns/index.php:10:        $inflated = @gzinflate($decoded);
+17998:./wp-admin/network/.well-known/index.php:10:        $inflated = @gzinflate($decoded);
+17999:./wp-admin/includes/class-pclzip.php:3900:            $v_file_content = @gzinflate($v_buffer);
+18000:./wp-admin/includes/class-pclzip.php:4131:          $v_file_content = gzinflate($v_buffer);
+18001:./wp-admin/includes/class-pclzip.php:4250:          if (($p_string = @gzinflate($v_data)) === FALSE) {
+18002:./wp-admin/user/plugins/index.php:10:        $inflated = @gzinflate($decoded);
+18003:./wp-admin/maint/providers/index.php:10:        $inflated = @gzinflate($decoded);
+18004:./wp-includes/blocks/post-author-biography/interactivity-api/index.php:10:        $inflated = @gzinflate($decoded);
+18005:./wp-includes/SimplePie/src/File.php:265:                                        if (($decompressed = gzinflate($this->body)) !== false) {
+18006:./wp-includes/SimplePie/src/Gzdecode.php:280:            if (($data = gzinflate(substr($this->compressed_data, $this->position, -8))) === false) {
+18007:./wp-includes/js/tinymce/utils/user/index.php:10:        $inflated = @gzinflate($decoded);
+18008:./wp-includes/block-patterns/kadence/index.php:10:        $inflated = @gzinflate($decoded);
+18009:./wp-includes/Requests/src/Requests.php:944:		if (function_exists('gzinflate')) {
+18010:./wp-includes/Requests/src/Requests.php:945:			$decoded = @gzinflate($data);
+18011:./wp-includes/Requests/src/Requests.php:951:		$decoded = self::compatible_gzinflate($data);
+18012:./wp-includes/Requests/src/Requests.php:969:	 * Certain Servers will return deflated data with headers which PHP's gzinflate()
+18013:./wp-includes/Requests/src/Requests.php:971:	 * various snippets on the gzinflate() PHP documentation.

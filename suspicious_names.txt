@@ -1,0 +1,460 @@
+45794101        8 -rw-r--r--    1 mohammadharissofi staff                 411 Dec 25 14:25 ./wp-content/plugins/woocommerce/packages/email-editor/vendor-prefixed/classes/symfony/polyfill-php80/Resources/stubs/PhpToken.php
+45794104        8 -rw-r--r--    1 mohammadharissofi staff                 336 Dec 25 14:25 ./wp-content/plugins/woocommerce/packages/email-editor/vendor-prefixed/classes/symfony/polyfill-php80/Resources/stubs/ValueError.php
+45794100        8 -rw-r--r--    1 mohammadharissofi staff                 788 Dec 25 14:25 ./wp-content/plugins/woocommerce/packages/email-editor/vendor-prefixed/classes/symfony/polyfill-php80/Resources/stubs/Attribute.php
+45794103        8 -rw-r--r--    1 mohammadharissofi staff                 345 Dec 25 14:25 ./wp-content/plugins/woocommerce/packages/email-editor/vendor-prefixed/classes/symfony/polyfill-php80/Resources/stubs/UnhandledMatchError.php
+45794102        8 -rw-r--r--    1 mohammadharissofi staff                 414 Dec 25 14:25 ./wp-content/plugins/woocommerce/packages/email-editor/vendor-prefixed/classes/symfony/polyfill-php80/Resources/stubs/Stringable.php
+45793517        8 -rw-r--r--    1 mohammadharissofi staff                 395 Dec 25 14:25 ./wp-content/plugins/woocommerce/lib/classes/symfony/polyfill-php80/Resources/stubs/PhpToken.php
+45793520        8 -rw-r--r--    1 mohammadharissofi staff                 328 Dec 25 14:25 ./wp-content/plugins/woocommerce/lib/classes/symfony/polyfill-php80/Resources/stubs/ValueError.php
+45793516        8 -rw-r--r--    1 mohammadharissofi staff                 772 Dec 25 14:25 ./wp-content/plugins/woocommerce/lib/classes/symfony/polyfill-php80/Resources/stubs/Attribute.php
+45793519        8 -rw-r--r--    1 mohammadharissofi staff                 337 Dec 25 14:25 ./wp-content/plugins/woocommerce/lib/classes/symfony/polyfill-php80/Resources/stubs/UnhandledMatchError.php
+45793518        8 -rw-r--r--    1 mohammadharissofi staff                 406 Dec 25 14:25 ./wp-content/plugins/woocommerce/lib/classes/symfony/polyfill-php80/Resources/stubs/Stringable.php
+45803173        8 -rw-r--r--    1 mohammadharissofi staff                2396 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/XPathExpr.php
+45803172        8 -rw-r--r--    1 mohammadharissofi staff                1048 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/TranslatorInterface.php
+45803167       16 -rw-r--r--    1 mohammadharissofi staff                5195 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/FunctionExtension.php
+45803165        8 -rw-r--r--    1 mohammadharissofi staff                1872 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/CombinationExtension.php
+45803170        8 -rw-r--r--    1 mohammadharissofi staff                3179 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/PseudoClassExtension.php
+45803169       16 -rw-r--r--    1 mohammadharissofi staff                5812 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/NodeExtension.php
+45803166        8 -rw-r--r--    1 mohammadharissofi staff                1556 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/ExtensionInterface.php
+45803164        8 -rw-r--r--    1 mohammadharissofi staff                3472 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/AttributeMatchingExtension.php
+45803168       16 -rw-r--r--    1 mohammadharissofi staff                4954 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/HtmlExtension.php
+45803163        8 -rw-r--r--    1 mohammadharissofi staff                1284 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Extension/AbstractExtension.php
+45803171       16 -rw-r--r--    1 mohammadharissofi staff                7362 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/XPath/Translator.php
+45803140        8 -rw-r--r--    1 mohammadharissofi staff                1182 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/Handler/CommentHandler.php
+45803143        8 -rw-r--r--    1 mohammadharissofi staff                1708 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/Handler/IdentifierHandler.php
+45803146        8 -rw-r--r--    1 mohammadharissofi staff                1254 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/Handler/WhitespaceHandler.php
+45803145        8 -rw-r--r--    1 mohammadharissofi staff                2552 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/Handler/StringHandler.php
+45803142        8 -rw-r--r--    1 mohammadharissofi staff                1690 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/Handler/HashHandler.php
+45803141        8 -rw-r--r--    1 mohammadharissofi staff                 820 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/Handler/HandlerInterface.php
+45803144        8 -rw-r--r--    1 mohammadharissofi staff                1465 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/Handler/NumberHandler.php
+45803151        8 -rw-r--r--    1 mohammadharissofi staff                1645 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/Shortcut/ClassParser.php
+45803153        8 -rw-r--r--    1 mohammadharissofi staff                1288 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php
+45803152        8 -rw-r--r--    1 mohammadharissofi staff                1451 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/Shortcut/ElementParser.php
+45803154        8 -rw-r--r--    1 mohammadharissofi staff                1636 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/Shortcut/HashParser.php
+45803155        8 -rw-r--r--    1 mohammadharissofi staff                2521 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/Token.php
+45803147       24 -rw-r--r--    1 mohammadharissofi staff               11404 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/Parser.php
+45803159        8 -rw-r--r--    1 mohammadharissofi staff                1797 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/Tokenizer/TokenizerEscaping.php
+45803158        8 -rw-r--r--    1 mohammadharissofi staff                1993 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/Tokenizer/Tokenizer.php
+45803160        8 -rw-r--r--    1 mohammadharissofi staff                2873 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/Tokenizer/TokenizerPatterns.php
+45803149        8 -rw-r--r--    1 mohammadharissofi staff                1895 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/Reader.php
+45803148        8 -rw-r--r--    1 mohammadharissofi staff                 838 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/ParserInterface.php
+45803156        8 -rw-r--r--    1 mohammadharissofi staff                3534 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Parser/TokenStream.php
+45803128        8 -rw-r--r--    1 mohammadharissofi staff                1312 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Node/ClassNode.php
+45803131        8 -rw-r--r--    1 mohammadharissofi staff                1867 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Node/FunctionNode.php
+45803126        8 -rw-r--r--    1 mohammadharissofi staff                 913 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Node/AbstractNode.php
+45803135        8 -rw-r--r--    1 mohammadharissofi staff                1374 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Node/PseudoNode.php
+45803130        8 -rw-r--r--    1 mohammadharissofi staff                1398 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Node/ElementNode.php
+45803137        8 -rw-r--r--    1 mohammadharissofi staff                1813 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Node/Specificity.php
+45803132        8 -rw-r--r--    1 mohammadharissofi staff                1295 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Node/HashNode.php
+45803127        8 -rw-r--r--    1 mohammadharissofi staff                2118 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Node/AttributeNode.php
+45803133        8 -rw-r--r--    1 mohammadharissofi staff                1406 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Node/NegationNode.php
+45803134        8 -rw-r--r--    1 mohammadharissofi staff                 730 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Node/NodeInterface.php
+45803136        8 -rw-r--r--    1 mohammadharissofi staff                1466 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Node/SelectorNode.php
+45803129        8 -rw-r--r--    1 mohammadharissofi staff                1664 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Node/CombinedSelectorNode.php
+45803121        8 -rw-r--r--    1 mohammadharissofi staff                 653 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Exception/InternalErrorException.php
+45803119        8 -rw-r--r--    1 mohammadharissofi staff                 609 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Exception/ExceptionInterface.php
+45803123        8 -rw-r--r--    1 mohammadharissofi staff                1832 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Exception/SyntaxErrorException.php
+45803122        8 -rw-r--r--    1 mohammadharissofi staff                 652 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Exception/ParseException.php
+45803120        8 -rw-r--r--    1 mohammadharissofi staff                 655 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/Exception/ExpressionErrorException.php
+45803117        8 -rw-r--r--    1 mohammadharissofi staff                2039 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony/css-selector/CssSelectorConverter.php
+45799972       16 -rw-r--r--    1 mohammadharissofi staff                4528 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/bootstrap80.php
+45799921        8 -rw-r--r--    1 mohammadharissofi staff                3779 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp500.php
+45799924        8 -rw-r--r--    1 mohammadharissofi staff                3809 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp850.php
+45799939      264 -rw-r--r--    1 mohammadharissofi staff              134095 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp932.php
+45799960        8 -rw-r--r--    1 mohammadharissofi staff                1859 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.us-ascii.php
+45799925        8 -rw-r--r--    1 mohammadharissofi staff                3808 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp852.php
+45799969        8 -rw-r--r--    1 mohammadharissofi staff                3662 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.windows-1258.php
+45799928        8 -rw-r--r--    1 mohammadharissofi staff                3763 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp857.php
+45799927        8 -rw-r--r--    1 mohammadharissofi staff                3194 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp856.php
+45799940      728 -rw-r--r--    1 mohammadharissofi staff              372283 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp936.php
+45799926        8 -rw-r--r--    1 mohammadharissofi staff                3809 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp855.php
+45799936        8 -rw-r--r--    1 mohammadharissofi staff                3676 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp869.php
+45799923        8 -rw-r--r--    1 mohammadharissofi staff                3815 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp775.php
+45799918        8 -rw-r--r--    1 mohammadharissofi staff                3779 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp1026.php
+45799958        8 -rw-r--r--    1 mohammadharissofi staff                3835 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.koi8-r.php
+45799942      456 -rw-r--r--    1 mohammadharissofi staff              231436 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp950.php
+45799957        8 -rw-r--r--    1 mohammadharissofi staff                3779 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.iso-8859-9.php
+45799956        8 -rw-r--r--    1 mohammadharissofi staff                3242 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.iso-8859-8.php
+45799959        8 -rw-r--r--    1 mohammadharissofi staff                3827 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.koi8-u.php
+45799917        8 -rw-r--r--    1 mohammadharissofi staff                3860 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp1006.php
+45799953        8 -rw-r--r--    1 mohammadharissofi staff                3780 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.iso-8859-5.php
+45799947        8 -rw-r--r--    1 mohammadharissofi staff                3801 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.iso-8859-14.php
+45799948        8 -rw-r--r--    1 mohammadharissofi staff                3780 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.iso-8859-15.php
+45799920        8 -rw-r--r--    1 mohammadharissofi staff                3841 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp437.php
+45799952        8 -rw-r--r--    1 mohammadharissofi staff                3779 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.iso-8859-4.php
+45799970      152 -rw-r--r--    1 mohammadharissofi staff               74227 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/translit.php
+45799954        8 -rw-r--r--    1 mohammadharissofi staff                3104 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.iso-8859-6.php
+45799949        8 -rw-r--r--    1 mohammadharissofi staff                3782 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.iso-8859-16.php
+45799955        8 -rw-r--r--    1 mohammadharissofi staff                3692 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.iso-8859-7.php
+45799941      576 -rw-r--r--    1 mohammadharissofi staff              291504 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp949.php
+45799919        8 -rw-r--r--    1 mohammadharissofi staff                3210 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp424.php
+45799951        8 -rw-r--r--    1 mohammadharissofi staff                3674 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.iso-8859-3.php
+45799946        8 -rw-r--r--    1 mohammadharissofi staff                3783 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.iso-8859-13.php
+45799950        8 -rw-r--r--    1 mohammadharissofi staff                3779 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.iso-8859-2.php
+45799916        8 -rw-r--r--    1 mohammadharissofi staff                3779 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp037.php
+45799945        8 -rw-r--r--    1 mohammadharissofi staff                3746 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.iso-8859-11.php
+45799944        8 -rw-r--r--    1 mohammadharissofi staff                3780 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.iso-8859-10.php
+45799943        8 -rw-r--r--    1 mohammadharissofi staff                3779 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.iso-8859-1.php
+45799922        8 -rw-r--r--    1 mohammadharissofi staff                3834 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp737.php
+45799933        8 -rw-r--r--    1 mohammadharissofi staff                3779 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp864.php
+45799964        8 -rw-r--r--    1 mohammadharissofi staff                3542 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.windows-1253.php
+45799963        8 -rw-r--r--    1 mohammadharissofi staff                3721 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.windows-1252.php
+45799934        8 -rw-r--r--    1 mohammadharissofi staff                3841 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp865.php
+45799915      456 -rw-r--r--    1 mohammadharissofi staff              233123 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.big5.php
+45799961        8 -rw-r--r--    1 mohammadharissofi staff                3721 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.windows-1250.php
+45799962        8 -rw-r--r--    1 mohammadharissofi staff                3782 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.windows-1251.php
+45799935        8 -rw-r--r--    1 mohammadharissofi staff                3831 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp866.php
+45799966        8 -rw-r--r--    1 mohammadharissofi staff                3454 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.windows-1255.php
+45799931        8 -rw-r--r--    1 mohammadharissofi staff                3841 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp862.php
+45799932        8 -rw-r--r--    1 mohammadharissofi staff                3841 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp863.php
+45799965        8 -rw-r--r--    1 mohammadharissofi staff                3691 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.windows-1254.php
+45799967        8 -rw-r--r--    1 mohammadharissofi staff                3800 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.windows-1256.php
+45799930        8 -rw-r--r--    1 mohammadharissofi staff                3841 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp861.php
+45799938        8 -rw-r--r--    1 mohammadharissofi staff                3776 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp875.php
+45799937        8 -rw-r--r--    1 mohammadharissofi staff                3410 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp874.php
+45799929        8 -rw-r--r--    1 mohammadharissofi staff                3840 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.cp860.php
+45799968        8 -rw-r--r--    1 mohammadharissofi staff                3616 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Resources/charset/from.windows-1257.php
+45799971        8 -rw-r--r--    1 mohammadharissofi staff                3947 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/bootstrap.php
+45799911       48 -rw-r--r--    1 mohammadharissofi staff               21961 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-iconv/Iconv.php
+45799987        8 -rw-r--r--    1 mohammadharissofi staff                2253 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-php80/PhpToken.php
+45799991        8 -rw-r--r--    1 mohammadharissofi staff                 375 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-php80/Resources/stubs/PhpToken.php
+45799994        8 -rw-r--r--    1 mohammadharissofi staff                 318 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-php80/Resources/stubs/ValueError.php
+45799990        8 -rw-r--r--    1 mohammadharissofi staff                 752 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php
+45799993        8 -rw-r--r--    1 mohammadharissofi staff                 327 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-php80/Resources/stubs/UnhandledMatchError.php
+45799992        8 -rw-r--r--    1 mohammadharissofi staff                 396 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-php80/Resources/stubs/Stringable.php
+45799995        8 -rw-r--r--    1 mohammadharissofi staff                1532 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-php80/bootstrap.php
+45799986        8 -rw-r--r--    1 mohammadharissofi staff                3577 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-php80/Php80.php
+45799983       24 -rw-r--r--    1 mohammadharissofi staff               10014 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-mbstring/bootstrap80.php
+45799978        8 -rw-r--r--    1 mohammadharissofi staff                2401 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-mbstring/Resources/unidata/caseFolding.php
+45799979       48 -rw-r--r--    1 mohammadharissofi staff               24539 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-mbstring/Resources/unidata/lowerCase.php
+45799980       16 -rw-r--r--    1 mohammadharissofi staff                6201 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-mbstring/Resources/unidata/titleCaseRegexp.php
+45799981       56 -rw-r--r--    1 mohammadharissofi staff               26322 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-mbstring/Resources/unidata/upperCase.php
+45799975       72 -rw-r--r--    1 mohammadharissofi staff               36171 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-mbstring/Mbstring.php
+45799982       24 -rw-r--r--    1 mohammadharissofi staff                8463 Dec 24 14:43 ./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-mbstring/bootstrap.php
+45779360        8 -rw-r--r--    1 mohammadharissofi staff                3067 Dec 24 14:42 ./wp-content/plugins/elementor/assets/js/text-editor.0c9960167105139d27c9.bundle.js
+45781017        8 -rw-r--r--    1 mohammadharissofi staff                2267 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-php80/PhpToken.php
+45781021        8 -rw-r--r--    1 mohammadharissofi staff                 401 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-php80/Resources/stubs/PhpToken.php
+45781024        8 -rw-r--r--    1 mohammadharissofi staff                 344 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-php80/Resources/stubs/ValueError.php
+45781020        8 -rw-r--r--    1 mohammadharissofi staff                 775 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-php80/Resources/stubs/Attribute.php
+45781023        8 -rw-r--r--    1 mohammadharissofi staff                 353 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-php80/Resources/stubs/UnhandledMatchError.php
+45781022        8 -rw-r--r--    1 mohammadharissofi staff                 421 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-php80/Resources/stubs/Stringable.php
+45781025        8 -rw-r--r--    1 mohammadharissofi staff                1697 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-php80/bootstrap.php
+45781016        8 -rw-r--r--    1 mohammadharissofi staff                3735 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-php80/Php80.php
+45781000        8 -rw-r--r--    1 mohammadharissofi staff                1886 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-ctype/bootstrap80.php
+45780999        8 -rw-r--r--    1 mohammadharissofi staff                1826 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-ctype/bootstrap.php
+45780997       16 -rw-r--r--    1 mohammadharissofi staff                6596 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-ctype/Ctype.php
+45781033        8 -rw-r--r--    1 mohammadharissofi staff                 446 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-php81/Resources/stubs/ReturnTypeWillChange.php
+45781032        8 -rw-r--r--    1 mohammadharissofi staff                1478 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-php81/Resources/stubs/CURLStringFile.php
+45781034        8 -rw-r--r--    1 mohammadharissofi staff                 815 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-php81/bootstrap.php
+45781029        8 -rw-r--r--    1 mohammadharissofi staff                 725 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-php81/Php81.php
+45780995        8 -rw-r--r--    1 mohammadharissofi staff                1058 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/deprecation-contracts/function.php
+45781012       24 -rw-r--r--    1 mohammadharissofi staff               10957 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-mbstring/bootstrap80.php
+45781007        8 -rw-r--r--    1 mohammadharissofi staff                1964 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-mbstring/Resources/unidata/caseFolding.php
+45781008       48 -rw-r--r--    1 mohammadharissofi staff               21775 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-mbstring/Resources/unidata/lowerCase.php
+45781009       16 -rw-r--r--    1 mohammadharissofi staff                6929 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-mbstring/Resources/unidata/titleCaseRegexp.php
+45781010       48 -rw-r--r--    1 mohammadharissofi staff               23374 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-mbstring/Resources/unidata/upperCase.php
+45781004       72 -rw-r--r--    1 mohammadharissofi staff               35777 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-mbstring/Mbstring.php
+45781011       24 -rw-r--r--    1 mohammadharissofi staff                9368 Dec 24 14:42 ./wp-content/plugins/elementor/vendor_prefixed/twig/symfony/polyfill-mbstring/bootstrap.php
+45797320        8 -rw-r--r--    1 mohammadharissofi staff                1316 Dec 24 14:43 ./wp-content/plugins/wordfence/modules/login-security/classes/model/crypto/symmetric.php
+45797521        8 -rw-r--r--    1 mohammadharissofi staff                2889 Dec 24 14:43 ./wp-content/plugins/wordfence/views/blocking/option-bypass-redirect.php
+45797520        8 -rw-r--r--    1 mohammadharissofi staff                2402 Dec 24 14:43 ./wp-content/plugins/wordfence/views/blocking/option-bypass-cookie.php
+45784647        8 -rw-r--r--    1 mohammadharissofi staff                2253 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php80/PhpToken.php
+45784651        8 -rw-r--r--    1 mohammadharissofi staff                 375 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php80/Resources/stubs/PhpToken.php
+45784654        8 -rw-r--r--    1 mohammadharissofi staff                 318 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php80/Resources/stubs/ValueError.php
+45784650        8 -rw-r--r--    1 mohammadharissofi staff                 752 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php
+45784653        8 -rw-r--r--    1 mohammadharissofi staff                 327 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php80/Resources/stubs/UnhandledMatchError.php
+45784652        8 -rw-r--r--    1 mohammadharissofi staff                 396 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php80/Resources/stubs/Stringable.php
+45784655        8 -rw-r--r--    1 mohammadharissofi staff                1532 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php80/bootstrap.php
+45784646        8 -rw-r--r--    1 mohammadharissofi staff                3577 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php80/Php80.php
+45784632        8 -rw-r--r--    1 mohammadharissofi staff                1650 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-ctype/bootstrap80.php
+45784631        8 -rw-r--r--    1 mohammadharissofi staff                1600 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-ctype/bootstrap.php
+45784629       16 -rw-r--r--    1 mohammadharissofi staff                6587 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-ctype/Ctype.php
+45784775        8 -rw-r--r--    1 mohammadharissofi staff                 680 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Reader/TranslationReaderInterface.php
+45784774        8 -rw-r--r--    1 mohammadharissofi staff                1734 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Reader/TranslationReader.php
+45784689       16 -rw-r--r--    1 mohammadharissofi staff                4551 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/DataCollector/TranslationDataCollector.php
+45784772       24 -rw-r--r--    1 mohammadharissofi staff               11991 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/PseudoLocalizationTranslator.php
+45784761        8 -rw-r--r--    1 mohammadharissofi staff                1376 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/MetadataAwareInterface.php
+45784760        8 -rw-r--r--    1 mohammadharissofi staff                3352 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/MessageCatalogueInterface.php
+45784757        8 -rw-r--r--    1 mohammadharissofi staff                2011 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/LocaleSwitcher.php
+45784792        8 -rw-r--r--    1 mohammadharissofi staff                3760 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Util/ArrayConverter.php
+45784793       16 -rw-r--r--    1 mohammadharissofi staff                6426 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Util/XliffUtils.php
+45784690       16 -rw-r--r--    1 mohammadharissofi staff                4241 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/DataCollectorTranslator.php
+45784787        8 -rw-r--r--    1 mohammadharissofi staff                1610 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/TranslatableMessage.php
+45784786        8 -rw-r--r--    1 mohammadharissofi staff                 761 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/StaticMessage.php
+45784781        8 -rw-r--r--    1 mohammadharissofi staff                 563 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Resources/functions.php
+45784778       24 -rw-r--r--    1 mohammadharissofi staff                8936 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Resources/bin/translation-status.php
+45784788       32 -rw-r--r--    1 mohammadharissofi staff               15263 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Translator.php
+45784759       24 -rw-r--r--    1 mohammadharissofi staff               10028 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/MessageCatalogue.php
+45784767        8 -rw-r--r--    1 mohammadharissofi staff                 843 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Provider/NullProviderFactory.php
+45784765        8 -rw-r--r--    1 mohammadharissofi staff                1536 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Provider/FilteringProvider.php
+45784763        8 -rw-r--r--    1 mohammadharissofi staff                1055 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Provider/AbstractProviderFactory.php
+45784766        8 -rw-r--r--    1 mohammadharissofi staff                 910 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Provider/NullProvider.php
+45784768        8 -rw-r--r--    1 mohammadharissofi staff                 669 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Provider/ProviderFactoryInterface.php
+45784764        8 -rw-r--r--    1 mohammadharissofi staff                2927 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Provider/Dsn.php
+45784771        8 -rw-r--r--    1 mohammadharissofi staff                1591 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Provider/TranslationProviderCollectionFactory.php
+45784769        8 -rw-r--r--    1 mohammadharissofi staff                 927 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Provider/ProviderInterface.php
+45784770        8 -rw-r--r--    1 mohammadharissofi staff                1401 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Provider/TranslationProviderCollection.php
+45784729        8 -rw-r--r--    1 mohammadharissofi staff                2886 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Extractor/PhpAstExtractor.php
+45784726        8 -rw-r--r--    1 mohammadharissofi staff                1683 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Extractor/AbstractFileExtractor.php
+45784728        8 -rw-r--r--    1 mohammadharissofi staff                1043 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Extractor/ExtractorInterface.php
+45784731       16 -rw-r--r--    1 mohammadharissofi staff                4526 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Extractor/Visitor/AbstractVisitor.php
+45784734        8 -rw-r--r--    1 mohammadharissofi staff                1619 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Extractor/Visitor/TranslatableMessageVisitor.php
+45784732        8 -rw-r--r--    1 mohammadharissofi staff                2879 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Extractor/Visitor/ConstraintVisitor.php
+45784733        8 -rw-r--r--    1 mohammadharissofi staff                1783 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Extractor/Visitor/TransMethodVisitor.php
+45784727        8 -rw-r--r--    1 mohammadharissofi staff                1252 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Extractor/ChainExtractor.php
+45784681        8 -rw-r--r--    1 mohammadharissofi staff                1454 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/CatalogueMetadataAwareInterface.php
+45784737        8 -rw-r--r--    1 mohammadharissofi staff                 690 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Formatter/IntlFormatterInterface.php
+45784739        8 -rw-r--r--    1 mohammadharissofi staff                 854 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Formatter/MessageFormatterInterface.php
+45784736        8 -rw-r--r--    1 mohammadharissofi staff                2127 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Formatter/IntlFormatter.php
+45784738        8 -rw-r--r--    1 mohammadharissofi staff                1514 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Formatter/MessageFormatter.php
+45784795        8 -rw-r--r--    1 mohammadharissofi staff                2131 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Writer/TranslationWriter.php
+45784796        8 -rw-r--r--    1 mohammadharissofi staff                 947 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Writer/TranslationWriterInterface.php
+45784749        8 -rw-r--r--    1 mohammadharissofi staff                1529 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Loader/JsonFileLoader.php
+45784751       16 -rw-r--r--    1 mohammadharissofi staff                4267 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Loader/MoFileLoader.php
+45784745        8 -rw-r--r--    1 mohammadharissofi staff                1728 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Loader/FileLoader.php
+45784747        8 -rw-r--r--    1 mohammadharissofi staff                2793 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Loader/IcuResFileLoader.php
+45784743        8 -rw-r--r--    1 mohammadharissofi staff                1487 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Loader/ArrayLoader.php
+45784750        8 -rw-r--r--    1 mohammadharissofi staff                 950 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Loader/LoaderInterface.php
+45784756        8 -rw-r--r--    1 mohammadharissofi staff                1604 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Loader/YamlFileLoader.php
+45784754        8 -rw-r--r--    1 mohammadharissofi staff                2769 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Loader/QtFileLoader.php
+45784752        8 -rw-r--r--    1 mohammadharissofi staff                1054 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Loader/PhpFileLoader.php
+45784755       24 -rw-r--r--    1 mohammadharissofi staff                9466 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Loader/XliffFileLoader.php
+45784748        8 -rw-r--r--    1 mohammadharissofi staff                 537 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Loader/IniFileLoader.php
+45784753       16 -rw-r--r--    1 mohammadharissofi staff                5114 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Loader/PoFileLoader.php
+45784744        8 -rw-r--r--    1 mohammadharissofi staff                2012 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Loader/CsvFileLoader.php
+45784746        8 -rw-r--r--    1 mohammadharissofi staff                1831 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Loader/IcuDatFileLoader.php
+45784790        8 -rw-r--r--    1 mohammadharissofi staff                 917 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/TranslatorBagInterface.php
+45784687       24 -rw-r--r--    1 mohammadharissofi staff               11048 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Command/XliffLintCommand.php
+45784684       16 -rw-r--r--    1 mohammadharissofi staff                7681 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Command/TranslationPullCommand.php
+45784686        8 -rw-r--r--    1 mohammadharissofi staff                2389 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Command/TranslationTrait.php
+45784685       16 -rw-r--r--    1 mohammadharissofi staff                7570 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Command/TranslationPushCommand.php
+45784683       16 -rw-r--r--    1 mohammadharissofi staff                4421 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Command/TranslationLintCommand.php
+45784678        8 -rw-r--r--    1 mohammadharissofi staff                2664 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Catalogue/MergeOperation.php
+45784677       16 -rw-r--r--    1 mohammadharissofi staff                5944 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Catalogue/AbstractOperation.php
+45784679        8 -rw-r--r--    1 mohammadharissofi staff                1857 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Catalogue/OperationInterface.php
+45784680        8 -rw-r--r--    1 mohammadharissofi staff                3709 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Catalogue/TargetOperation.php
+45784696        8 -rw-r--r--    1 mohammadharissofi staff                3769 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/DependencyInjection/TranslatorPass.php
+45784694        8 -rw-r--r--    1 mohammadharissofi staff                1085 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php
+45784695        8 -rw-r--r--    1 mohammadharissofi staff                1110 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php
+45784693        8 -rw-r--r--    1 mohammadharissofi staff                2357 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php
+45784692        8 -rw-r--r--    1 mohammadharissofi staff                1151 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php
+45784697       16 -rw-r--r--    1 mohammadharissofi staff                4812 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php
+45784717        8 -rw-r--r--    1 mohammadharissofi staff                 493 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Exception/InvalidResourceException.php
+45784718        8 -rw-r--r--    1 mohammadharissofi staff                 487 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Exception/LogicException.php
+45784721        8 -rw-r--r--    1 mohammadharissofi staff                 992 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Exception/ProviderException.php
+45784722        8 -rw-r--r--    1 mohammadharissofi staff                 559 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Exception/ProviderExceptionInterface.php
+45784712        8 -rw-r--r--    1 mohammadharissofi staff                 469 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Exception/ExceptionInterface.php
+45784723        8 -rw-r--r--    1 mohammadharissofi staff                 497 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Exception/RuntimeException.php
+45784716        8 -rw-r--r--    1 mohammadharissofi staff                 521 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Exception/InvalidArgumentException.php
+45784724        8 -rw-r--r--    1 mohammadharissofi staff                2064 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Exception/UnsupportedSchemeException.php
+45784719        8 -rw-r--r--    1 mohammadharissofi staff                 671 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Exception/MissingRequiredOptionException.php
+45784720        8 -rw-r--r--    1 mohammadharissofi staff                 492 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Exception/NotFoundResourceException.php
+45784713        8 -rw-r--r--    1 mohammadharissofi staff                 631 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Exception/IncompleteDsnException.php
+45784789        8 -rw-r--r--    1 mohammadharissofi staff                3127 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/TranslatorBag.php
+45784703        8 -rw-r--r--    1 mohammadharissofi staff                 950 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Dumper/IniFileDumper.php
+45784706        8 -rw-r--r--    1 mohammadharissofi staff                 792 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Dumper/PhpFileDumper.php
+45784708        8 -rw-r--r--    1 mohammadharissofi staff                1884 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Dumper/QtFileDumper.php
+45784709       24 -rw-r--r--    1 mohammadharissofi staff                9374 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Dumper/XliffFileDumper.php
+45784699        8 -rw-r--r--    1 mohammadharissofi staff                1374 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Dumper/CsvFileDumper.php
+45784707       16 -rw-r--r--    1 mohammadharissofi staff                4137 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Dumper/PoFileDumper.php
+45784701        8 -rw-r--r--    1 mohammadharissofi staff                3481 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Dumper/FileDumper.php
+45784700        8 -rw-r--r--    1 mohammadharissofi staff                 742 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Dumper/DumperInterface.php
+45784702        8 -rw-r--r--    1 mohammadharissofi staff                2909 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Dumper/IcuResFileDumper.php
+45784704        8 -rw-r--r--    1 mohammadharissofi staff                 837 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Dumper/JsonFileDumper.php
+45784705        8 -rw-r--r--    1 mohammadharissofi staff                2243 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Dumper/MoFileDumper.php
+45784710        8 -rw-r--r--    1 mohammadharissofi staff                1485 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/Dumper/YamlFileDumper.php
+45784740        8 -rw-r--r--    1 mohammadharissofi staff                 661 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/IdentityTranslator.php
+45784758        8 -rw-r--r--    1 mohammadharissofi staff                2887 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation/LoggingTranslator.php
+45784803        8 -rw-r--r--    1 mohammadharissofi staff                 458 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation-contracts/TranslatableInterface.php
+45784804        8 -rw-r--r--    1 mohammadharissofi staff                2562 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation-contracts/TranslatorInterface.php
+45784802        8 -rw-r--r--    1 mohammadharissofi staff                 620 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation-contracts/LocaleAwareInterface.php
+45784805       16 -rw-r--r--    1 mohammadharissofi staff                7986 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/translation-contracts/TranslatorTrait.php
+45784859        8 -rw-r--r--    1 mohammadharissofi staff                1173 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Cloner/Cursor.php
+45784863       24 -rw-r--r--    1 mohammadharissofi staff                9821 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Cloner/VarCloner.php
+45784858        8 -rw-r--r--    1 mohammadharissofi staff                 459 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Cloner/ClonerInterface.php
+45784861        8 -rw-r--r--    1 mohammadharissofi staff                1808 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Cloner/DumperInterface.php
+45784857       48 -rw-r--r--    1 mohammadharissofi staff               22402 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Cloner/AbstractCloner.php
+45784860       32 -rw-r--r--    1 mohammadharissofi staff               13658 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Cloner/Data.php
+45784862        8 -rw-r--r--    1 mohammadharissofi staff                2189 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Cloner/Stub.php
+45784845        8 -rw-r--r--    1 mohammadharissofi staff                1841 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/SocketCaster.php
+45784829        8 -rw-r--r--    1 mohammadharissofi staff                 783 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/GmpCaster.php
+45784842       32 -rw-r--r--    1 mohammadharissofi staff               15180 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/ReflectionCaster.php
+45784848        8 -rw-r--r--    1 mohammadharissofi staff                2418 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/StubCaster.php
+45784849        8 -rw-r--r--    1 mohammadharissofi staff                3765 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/SymfonyCaster.php
+45784827        8 -rw-r--r--    1 mohammadharissofi staff                 659 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/FrameStub.php
+45784847        8 -rw-r--r--    1 mohammadharissofi staff                 770 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/SqliteCaster.php
+45784839        8 -rw-r--r--    1 mohammadharissofi staff                 762 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/ProxyManagerCaster.php
+45784825       16 -rw-r--r--    1 mohammadharissofi staff                5669 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/FFICaster.php
+45784819       16 -rw-r--r--    1 mohammadharissofi staff                4946 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/DateCaster.php
+45784828        8 -rw-r--r--    1 mohammadharissofi staff                 694 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/GdCaster.php
+45784837        8 -rw-r--r--    1 mohammadharissofi staff                3603 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/PdoCaster.php
+45784855        8 -rw-r--r--    1 mohammadharissofi staff                2586 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/XmlResourceCaster.php
+45784843        8 -rw-r--r--    1 mohammadharissofi staff                2641 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/ResourceCaster.php
+45784824       40 -rw-r--r--    1 mohammadharissofi staff               16475 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/ExceptionCaster.php
+45784851        8 -rw-r--r--    1 mohammadharissofi staff                 615 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/UninitializedStub.php
+45784821        8 -rw-r--r--    1 mohammadharissofi staff                1590 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/DsCaster.php
+45784833        8 -rw-r--r--    1 mohammadharissofi staff                3371 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/LinkStub.php
+45784834        8 -rw-r--r--    1 mohammadharissofi staff                2327 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/MemcachedCaster.php
+45784820        8 -rw-r--r--    1 mohammadharissofi staff                1727 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/DoctrineCaster.php
+45784840       16 -rw-r--r--    1 mohammadharissofi staff                4763 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/RdKafkaCaster.php
+45784835        8 -rw-r--r--    1 mohammadharissofi staff                 691 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/MysqliCaster.php
+45784831        8 -rw-r--r--    1 mohammadharissofi staff                 637 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/ImgStub.php
+45784813        8 -rw-r--r--    1 mohammadharissofi staff                3817 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/ClassStub.php
+45784850        8 -rw-r--r--    1 mohammadharissofi staff                 759 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/TraceStub.php
+45784816        8 -rw-r--r--    1 mohammadharissofi staff                 702 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/CutArrayStub.php
+45784815        8 -rw-r--r--    1 mohammadharissofi staff                 668 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/CurlCaster.php
+45784838       16 -rw-r--r--    1 mohammadharissofi staff                5674 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/PgSqlCaster.php
+45784812       16 -rw-r--r--    1 mohammadharissofi staff                7049 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/Caster.php
+45784846       16 -rw-r--r--    1 mohammadharissofi staff                8054 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/SplCaster.php
+45784814        8 -rw-r--r--    1 mohammadharissofi staff                1168 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/ConstStub.php
+45784844        8 -rw-r--r--    1 mohammadharissofi staff                 554 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/ScalarStub.php
+45784822        8 -rw-r--r--    1 mohammadharissofi staff                 625 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/DsPairStub.php
+45784832       24 -rw-r--r--    1 mohammadharissofi staff                9001 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/IntlCaster.php
+45784841       16 -rw-r--r--    1 mohammadharissofi staff                5509 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/RedisCaster.php
+45784826        8 -rw-r--r--    1 mohammadharissofi staff                1069 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/FiberCaster.php
+45784830        8 -rw-r--r--    1 mohammadharissofi staff                 983 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/ImagineCaster.php
+45784810       16 -rw-r--r--    1 mohammadharissofi staff                6763 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/AmqpCaster.php
+45784853        8 -rw-r--r--    1 mohammadharissofi staff                 548 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/VirtualStub.php
+45784809        8 -rw-r--r--    1 mohammadharissofi staff                2260 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/AddressInfoCaster.php
+45784818       16 -rw-r--r--    1 mohammadharissofi staff                7177 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/DOMCaster.php
+45784852        8 -rw-r--r--    1 mohammadharissofi staff                 702 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/UuidCaster.php
+45784854        8 -rw-r--r--    1 mohammadharissofi staff                3419 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/XmlReaderCaster.php
+45784811        8 -rw-r--r--    1 mohammadharissofi staff                2280 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/ArgsStub.php
+45784823        8 -rw-r--r--    1 mohammadharissofi staff                 596 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/EnumStub.php
+45784836        8 -rw-r--r--    1 mohammadharissofi staff                2553 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/OpenSSLCaster.php
+45784817        8 -rw-r--r--    1 mohammadharissofi staff                1939 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/CutStub.php
+45784893        8 -rw-r--r--    1 mohammadharissofi staff                 354 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Resources/js/htmlDescriptor.js
+45784891        8 -rw-r--r--    1 mohammadharissofi staff                1634 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Resources/functions/dump.php
+45784895        8 -rw-r--r--    1 mohammadharissofi staff                2604 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Server/Connection.php
+45784896        8 -rw-r--r--    1 mohammadharissofi staff                3087 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Server/DumpServer.php
+45784869        8 -rw-r--r--    1 mohammadharissofi staff                3932 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Command/ServerDumpCommand.php
+45784867        8 -rw-r--r--    1 mohammadharissofi staff                 610 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Command/Descriptor/DumpDescriptorInterface.php
+45784866        8 -rw-r--r--    1 mohammadharissofi staff                2618 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php
+45784868        8 -rw-r--r--    1 mohammadharissofi staff                3962 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php
+45784883        8 -rw-r--r--    1 mohammadharissofi staff                 650 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Exception/ThrowingCasterException.php
+45784881        8 -rw-r--r--    1 mohammadharissofi staff                1578 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Dumper/ServerDumper.php
+45784879        8 -rw-r--r--    1 mohammadharissofi staff                 548 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Dumper/DataDumperInterface.php
+45784875        8 -rw-r--r--    1 mohammadharissofi staff                 537 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Dumper/ContextProvider/ContextProviderInterface.php
+45784876        8 -rw-r--r--    1 mohammadharissofi staff                1479 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php
+45784874        8 -rw-r--r--    1 mohammadharissofi staff                 810 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php
+45784877       16 -rw-r--r--    1 mohammadharissofi staff                4791 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php
+45784871       16 -rw-r--r--    1 mohammadharissofi staff                7166 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Dumper/AbstractDumper.php
+45784872       48 -rw-r--r--    1 mohammadharissofi staff               23759 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Dumper/CliDumper.php
+45784878        8 -rw-r--r--    1 mohammadharissofi staff                1077 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Dumper/ContextualizedDumper.php
+45784880       88 -rw-r--r--    1 mohammadharissofi staff               41121 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Dumper/HtmlDumper.php
+45784897       16 -rw-r--r--    1 mohammadharissofi staff                4189 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/VarDumper.php
+45784582        8 -rw-r--r--    1 mohammadharissofi staff                3113 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/dom-crawler/AbstractUriElement.php
+45784597        8 -rw-r--r--    1 mohammadharissofi staff                 862 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/dom-crawler/Link.php
+45784584       80 -rw-r--r--    1 mohammadharissofi staff               39339 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/dom-crawler/Crawler.php
+45784594       16 -rw-r--r--    1 mohammadharissofi staff                4975 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/dom-crawler/FormFieldRegistry.php
+45784587        8 -rw-r--r--    1 mohammadharissofi staff                3276 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/dom-crawler/Field/FileFormField.php
+45784591        8 -rw-r--r--    1 mohammadharissofi staff                 986 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/dom-crawler/Field/TextareaFormField.php
+45784588        8 -rw-r--r--    1 mohammadharissofi staff                2390 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/dom-crawler/Field/FormField.php
+45784586       24 -rw-r--r--    1 mohammadharissofi staff                9008 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/dom-crawler/Field/ChoiceFormField.php
+45784590        8 -rw-r--r--    1 mohammadharissofi staff                1418 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/dom-crawler/Field/InputFormField.php
+45784592       32 -rw-r--r--    1 mohammadharissofi staff               15223 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/dom-crawler/Form.php
+45784598        8 -rw-r--r--    1 mohammadharissofi staff                3640 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/dom-crawler/UriResolver.php
+45784595        8 -rw-r--r--    1 mohammadharissofi staff                 886 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/dom-crawler/Image.php
+45784627        8 -rw-r--r--    1 mohammadharissofi staff                1879 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/SplFileInfo.php
+45784604        8 -rw-r--r--    1 mohammadharissofi staff                2566 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Comparator/NumberComparator.php
+45784602        8 -rw-r--r--    1 mohammadharissofi staff                1420 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Comparator/Comparator.php
+45784603        8 -rw-r--r--    1 mohammadharissofi staff                1408 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Comparator/DateComparator.php
+45784608       48 -rw-r--r--    1 mohammadharissofi staff               24177 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Finder.php
+45784610        8 -rw-r--r--    1 mohammadharissofi staff                3599 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Glob.php
+45784619        8 -rw-r--r--    1 mohammadharissofi staff                 686 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Iterator/LazyIterator.php
+45784625       16 -rw-r--r--    1 mohammadharissofi staff                4718 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Iterator/VcsIgnoredFilterIterator.php
+45784617        8 -rw-r--r--    1 mohammadharissofi staff                1418 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Iterator/FilecontentFilterIterator.php
+45784620        8 -rw-r--r--    1 mohammadharissofi staff                3146 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Iterator/MultiplePcreFilterIterator.php
+45784623        8 -rw-r--r--    1 mohammadharissofi staff                1360 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Iterator/SizeRangeFilterIterator.php
+45784618        8 -rw-r--r--    1 mohammadharissofi staff                1105 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Iterator/FilenameFilterIterator.php
+45784613        8 -rw-r--r--    1 mohammadharissofi staff                1401 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Iterator/DateRangeFilterIterator.php
+45784612        8 -rw-r--r--    1 mohammadharissofi staff                1527 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Iterator/CustomFilterIterator.php
+45784622       16 -rw-r--r--    1 mohammadharissofi staff                4136 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Iterator/RecursiveDirectoryIterator.php
+45784615        8 -rw-r--r--    1 mohammadharissofi staff                3382 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Iterator/ExcludeDirectoryFilterIterator.php
+45784624       16 -rw-r--r--    1 mohammadharissofi staff                4652 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Iterator/SortableIterator.php
+45784614        8 -rw-r--r--    1 mohammadharissofi staff                1378 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Iterator/DepthRangeFilterIterator.php
+45784616        8 -rw-r--r--    1 mohammadharissofi staff                1364 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Iterator/FileTypeFilterIterator.php
+45784621        8 -rw-r--r--    1 mohammadharissofi staff                1423 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Iterator/PathFilterIterator.php
+45784609        8 -rw-r--r--    1 mohammadharissofi staff                3012 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Gitignore.php
+45784606        8 -rw-r--r--    1 mohammadharissofi staff                 427 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Exception/AccessDeniedException.php
+45784607        8 -rw-r--r--    1 mohammadharissofi staff                 419 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/finder/Exception/DirectoryNotFoundException.php
+45784673        8 -rw-r--r--    1 mohammadharissofi staff                 954 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php83/bootstrap81.php
+45784671        8 -rw-r--r--    1 mohammadharissofi staff                 328 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php83/Resources/stubs/SQLite3Exception.php
+45784661        8 -rw-r--r--    1 mohammadharissofi staff                 317 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php83/Resources/stubs/DateError.php
+45784670        8 -rw-r--r--    1 mohammadharissofi staff                 409 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php83/Resources/stubs/Override.php
+45784662        8 -rw-r--r--    1 mohammadharissofi staff                 325 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php83/Resources/stubs/DateException.php
+45784663        8 -rw-r--r--    1 mohammadharissofi staff                 345 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php83/Resources/stubs/DateInvalidOperationException.php
+45784668        8 -rw-r--r--    1 mohammadharissofi staff                 327 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php83/Resources/stubs/DateObjectError.php
+45784666        8 -rw-r--r--    1 mohammadharissofi staff                 350 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php83/Resources/stubs/DateMalformedPeriodStringException.php
+45784667        8 -rw-r--r--    1 mohammadharissofi staff                 344 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php83/Resources/stubs/DateMalformedStringException.php
+45784669        8 -rw-r--r--    1 mohammadharissofi staff                 326 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php83/Resources/stubs/DateRangeError.php
+45784664        8 -rw-r--r--    1 mohammadharissofi staff                 344 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php83/Resources/stubs/DateInvalidTimeZoneException.php
+45784665        8 -rw-r--r--    1 mohammadharissofi staff                 352 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php83/Resources/stubs/DateMalformedIntervalStringException.php
+45784672        8 -rw-r--r--    1 mohammadharissofi staff                1974 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php83/bootstrap.php
+45784658       16 -rw-r--r--    1 mohammadharissofi staff                6892 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-php83/Php83.php
+45784580        8 -rw-r--r--    1 mohammadharissofi staff                1014 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/deprecation-contracts/function.php
+45784576        8 -rw-r--r--    1 mohammadharissofi staff                 685 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/clock/Resources/now.php
+45784568        8 -rw-r--r--    1 mohammadharissofi staff                 841 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/clock/ClockAwareTrait.php
+45784572        8 -rw-r--r--    1 mohammadharissofi staff                3257 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/clock/MockClock.php
+45784567        8 -rw-r--r--    1 mohammadharissofi staff                2369 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/clock/Clock.php
+45784573        8 -rw-r--r--    1 mohammadharissofi staff                2676 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/clock/MonotonicClock.php
+45784569        8 -rw-r--r--    1 mohammadharissofi staff                 559 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/clock/ClockInterface.php
+45784570       16 -rw-r--r--    1 mohammadharissofi staff                5547 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/clock/DatePoint.php
+45784574        8 -rw-r--r--    1 mohammadharissofi staff                1801 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/clock/NativeClock.php
+45784643       24 -rw-r--r--    1 mohammadharissofi staff               10014 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-mbstring/bootstrap80.php
+45784638        8 -rw-r--r--    1 mohammadharissofi staff                2401 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-mbstring/Resources/unidata/caseFolding.php
+45784639       48 -rw-r--r--    1 mohammadharissofi staff               24539 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-mbstring/Resources/unidata/lowerCase.php
+45784640       16 -rw-r--r--    1 mohammadharissofi staff                6201 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-mbstring/Resources/unidata/titleCaseRegexp.php
+45784641       56 -rw-r--r--    1 mohammadharissofi staff               26322 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-mbstring/Resources/unidata/upperCase.php
+45784635       72 -rw-r--r--    1 mohammadharissofi staff               36171 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-mbstring/Mbstring.php
+45784642       24 -rw-r--r--    1 mohammadharissofi staff                8463 Dec 24 14:33 ./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/polyfill-mbstring/bootstrap.php
+./wp-content/plugins/wordfence/lib/wordfenceScanner.php:444:									'longMsg' => sprintf(/* translators: Malware signature matched text. */ __('This file is a PHP executable file and contains the word "eval" (without quotes) and the word "%s" (without quotes). The eval() function along with an encoding function like the one mentioned are commonly used by hackers to hide their code. If you know about this file you can choose to ignore it to exclude it from future scans. This file was detected because you have enabled HIGH SENSITIVITY scanning. This option is more aggressive than the usual scans, and may cause false positives.', 'wordfence'), '<span class="wf-split-word">' . esc_html($badStringFound) . '</span>'),
+./wp-includes/ID3/getid3.php:484:							$dir_listing = shell_exec($commandline);
+./wp-includes/ID3/getid3.php:1824:						$VorbisCommentError = shell_exec($commandline);
+./wp-includes/ID3/getid3.php:1835:					$VorbisCommentError = shell_exec($commandline);
+./wp-includes/ID3/getid3.lib.php:1814:			$output = trim(shell_exec($commandline));
+./wp-includes/Text/Diff/Engine/shell.php:5: * This class uses the Unix `diff` program via shell_exec to compute the
+./wp-includes/Text/Diff/Engine/shell.php:50:        $diff = shell_exec($this->_diffCommand . ' ' . $from_file . ' ' . $to_file);
+./wp-content/plugins/really-simple-ssl/lets-encrypt/functions.php:540:		if ( function_exists('shell_exec') || function_exists('system') || function_exists('passthru') || function_exists('exec') ) {
+./wp-content/plugins/really-simple-ssl/lets-encrypt/config/notices.php:139:			$notices['old_shell_exec_plugin'] = array(
+./wp-content/plugins/hostinger-ai-assistant/vendor/nesbot/carbon/src/Carbon/Cli/Invoker.php:33:        $function = (($parameters[1] ?? '') === 'install' ? ($parameters[2] ?? null) : null) ?: 'shell_exec';
+./wp-content/plugins/hostinger-ai-assistant/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:66:        $result = explode(' ', trim((string) shell_exec('hg id -nb')));
+./wp-content/plugins/hostinger-ai-assistant/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:67:        $branches = shell_exec('git branch -v --no-abbrev');
+./wp-content/plugins/hostinger-ai-assistant/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:108:            default => trim((string) shell_exec('id -u')),
+./wp-content/plugins/hostinger-ai-assistant/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:123:            default => trim((string) shell_exec('id -g')),
+./wp-content/plugins/hostinger-ai-assistant/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:128:     * Returns true if shell_exec() is available for use
+./wp-content/plugins/hostinger-ai-assistant/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:132:        return !str_contains(strtolower((string) ini_get('disable_functions')), 'shell_exec');
+./wp-content/plugins/hostinger-ai-assistant/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:161:        $response = shell_exec('whoami /user /fo csv /nh');
+./wp-content/plugins/hostinger-ai-assistant/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:188:        $response = shell_exec('net user %username% | findstr /b /i "Local Group Memberships"');
+./wp-content/plugins/hostinger-ai-assistant/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:201:        $response = shell_exec('wmic group get name,sid | findstr /b /i ' . escapeshellarg($firstGroup));
+./wp-content/plugins/really-simple-ssl/lets-encrypt/functions.php:540:		if ( function_exists('shell_exec') || function_exists('system') || function_exists('passthru') || function_exists('exec') ) {
+./wp-includes/Text/Diff/Engine/shell.php
+./wp-content/plugins/woocommerce/packages/email-editor/vendor-prefixed/classes/symfony
+./wp-content/plugins/woocommerce/lib/classes/symfony
+./wp-content/plugins/wordpress/wordpress/minishell.rar
+./wp-content/plugins/wpforms-lite/vendor_prefixed/symfony
+./wp-content/plugins/wpforms-lite/vendor/symfony
+./wp-content/plugins/elementor/assets/js/text-editor.0c9960167105139d27c9.bundle.js
+./wp-content/plugins/elementor/assets/shapes/triangle-asymmetrical.svg
+./wp-content/plugins/elementor/assets/shapes/triangle-asymmetrical-negative.svg
+./wp-content/plugins/elementor/assets/shapes/curve-asymmetrical.svg
+./wp-content/plugins/elementor/assets/shapes/curve-asymmetrical-negative.svg
+./wp-content/plugins/elementor/vendor_prefixed/twig/symfony
+./wp-content/plugins/wordfence/modules/login-security/classes/model/crypto/symmetric.php
+./wp-content/plugins/wordfence/views/blocking/option-bypass-redirect.php
+./wp-content/plugins/wordfence/views/blocking/option-bypass-cookie.php
+./wp-content/plugins/hostinger-ai-assistant/vendor/symfony
+./wp-content/plugins/hostinger-ai-assistant/vendor/symfony/var-dumper/Caster/SymfonyCaster.php
+./wp-content/uploads/2025/03/material-symbols_call-outline-sharp.svg
+./wp-content/uploads/2025/02/material-symbols_call-outline-sharp-2-100x100.png
+./wp-content/uploads/2025/02/material-symbols_call-outline-sharp.png
+./wp-content/uploads/2025/02/material-symbols_call-outline-sharp-100x100.png
+./wp-content/uploads/2025/02/material-symbols_call-outline-sharp-1-100x100.png
+./wp-content/uploads/2025/02/material-symbols_call-outline-sharp-2.png
+./wp-content/uploads/2025/02/material-symbols_call-outline-sharp-1.png
+./wp-content/languages/ar-f8f49d9fc4a9cf7d78ec99285417bd9c.json
+./wp-content/languages/plugins/woocommerce-ar-b89c99dd4899a73f64f8a831a4d38164.json
+./wp-content/languages/plugins/woocommerce-ar-f76aec99021d72e88afb0f04a532f79d.json
+./wp-content/languages/plugins/woocommerce-ar-f59fc99258fa76f6a00ffa61267dafed.json
+./wp-content/languages/plugins/elementor-ar-23f8a12bf11e8b1bbfc99cf0797d6856.json
+./wp-content/languages/plugins/woocommerce-ar-2c99303d18ce23c3379a94c74d3a5726.json
+./wp-content/plugins/wpforms-lite/vendor/symfony/polyfill-mbstring/Mbstring.php:799:            $s = \chr(0xC0 | $code >> 6).\chr(0x80 | $code & 0x3F);
